@@ -15,6 +15,7 @@
 ## Что получили
 
 Готовый box в vagrantcloud (**10 Гб!** возможно поэтому не отображается в общем списке на [vagrantup](https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=created&provider=&q=centos8-kernel6)) с CentOS 8, ядро собрано из исходников, Vagrantfile, система разворачивается, плагином устанавливаются virtualbox addons
+
 [Ссылка на box](https://app.vagrantup.com/kasperwps/boxes/centos8-kernel6)
 
 ## TODO
